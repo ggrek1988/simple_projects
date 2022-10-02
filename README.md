@@ -8,3 +8,4 @@ Project is created with:
 
 ## **Project**
 * liczy_rzymskie.py - change to roman numerals
+* KK.py - tic-tac-toe in the terminal [link text](screenshot2.png)
